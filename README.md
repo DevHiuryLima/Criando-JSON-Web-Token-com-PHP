@@ -113,7 +113,7 @@ tokens de autenticação seguros em suas aplicações.</p>
 
 ## :memo: Licença
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [MIT LICENSE](LICENSE.md) contido nesse repositório.
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [MIT LICENSE](LICENSE) contido nesse repositório.
 
 Feito por <a href="https://github.com/DevHiuryLima" target="_blank">Hiury Lima</a>.
 
